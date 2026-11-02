@@ -1,0 +1,4 @@
+__pycache
+.env
+main.py
+my_fastapi_venv
